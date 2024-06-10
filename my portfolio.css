@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(103, 62, 84, 0); 
+
+}
+#aboutme{
+    text-align:center;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-stretch: expanded;
+    font-weight: 900;
+}
+#mybackground{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(75, 25, 25);
+    text-align: c;
+}
+
+
+.mycv{
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 800;
+    text-align: center;
+    
+
+
+}
+#projects{
+  text-align: left;
+  text-decoration-line: calc(); 
+  background-color: blanchedalmond;
+
+}
+#projects h2{
+    color: purple;
+    text-align: left;
+}
+.image_arrangement{
+    display:flex;
+    justify-content: space_between;
+    width: 200px;
+    height: 190px;
+    margin: 10px;
+}
+body {
+    background-image: url(WHITE.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
